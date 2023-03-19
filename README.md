@@ -2,5 +2,5 @@
 ### *Detailed Study of Algorithmic Trading.*
 This Repository Contains different courses that are attended and the books I read to learn and implement Algorithmic Trading.
 
-+ How to start
-+ how to get the stock data
+***Course : Python for Financial Analysis and Algorithmic Trading***
+
